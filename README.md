@@ -2,7 +2,7 @@
 - 👀 I’m interested in sequencing and related.
 - 🌱 I’m currently learning of GitHub.
 - 💞️ I’m looking to collaborate on bioinformatics.
-- 📫 How to reach me , by e-mail.
+- 📫 How to reach me , by e-mail mtiirola@jyu.fi.
 
 <!---
 mtiirola/mtiirola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
